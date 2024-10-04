@@ -1,4 +1,5 @@
 Hotel Data Analysis Project
+
 In this project, I performed an analysis of hotel data with the goal of uncovering key insights into booking trends, customer preferences, and operational performance. The project involved:
 
 Database Creation: Built and structured a database from raw hotel data to ensure efficient data management.
